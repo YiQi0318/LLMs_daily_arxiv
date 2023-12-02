@@ -216,15 +216,15 @@ def json_to_md(filename,md_filename,
             f.write(f"[issues-url]: https://github.com/SpikingChen/snn-arxiv-daily/issues\n\n")
 
     # Define the acknowledgment section
-    acknowledgment_section = """
-    ## Acknowledgments
+    # acknowledgment_section = """
+    # ## Acknowledgments
 
-    Thank you very much for the inspiration and help provided by [Dengyu-Wu](https://github.com/Dengyu-Wu/neuromorphics-daily-arxiv). Based on this, I have transitioned to this repo.
-    """
+    # Thank you very much for the inspiration and help provided by [Dengyu-Wu](https://github.com/Dengyu-Wu/neuromorphics-daily-arxiv). Based on this, I have transitioned to this repo.
+    # """
 
-    # Append the acknowledgment section to the README
-    with open(md_filename, 'a') as file:
-        file.write(acknowledgment_section) 
+    # # Append the acknowledgment section to the README
+    # with open(md_filename, 'a') as file:
+    #     file.write(acknowledgment_section) 
     print("finished")        
 
  
@@ -235,32 +235,26 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    # keywords["Neuromorphics"]                    = "\"Neuromorphic\"OR\"Neuromorphics\""
-    keywords["LLM - Vehicles"]  = "\"LLM\"OR\"Large language model\"AND\"Vehicle\"OR\"Automotive vehicles\""
-    keywords["LLM - Robots"]  = "\"LLM\"OR\"Large language model\"AND\"Robot\"OR\"Robotics\""
-    keywords["LLM - Prompt"]  = "\"LLM\"OR\"Large language model\"AND\"Prompt engineering\""
-    keywords["LLM - Finetuning"]  = "\"LLM\"OR\"Large language model\"AND\"Fine tuning\""
-    keywords["LLM - XAI"]  = "\"LLM\"OR\"Large language model\"AND\"Explainability\"OR\"Interpretability\""
-    keywords["LLM - Safety"]  = "\"LLM\"OR\"Large language model\"AND\"Safety\"OR\"Security\""
-    keywords["LLM - Privacy"]  = "\"LLM\"OR\"Large language model\"AND\"Privacy\""
-    keywords["LLM - Evaluation"]  = "\"LLM\"OR\"Large language model\"AND\"Evaluation\""
-   
+    keywords["LLM - Explainability"]  = "\"Large language model\"AND\"Explainability\""
+    keywords["LLM - Interpretability"]  = "\"Large language model\"AND\"Interpretability\""
+    keywords["LLM - Safety"]  = "\"Large language model\"AND\"Safety\""
+    keywords["LLM - Privacy"]  = "\"Large language model\"AND\"Privacy\""
+    keywords["LLM - Reliability"]  = "\"Large language model\"AND\"Reliability\""
 
     for topic,keyword in keywords.items():
  
         # topic = keyword.replace("\"","")
         print("Keyword: " + topic)
 
-        data,data_web = get_daily_papers(topic, query = keyword, max_results = 200)
+        data,data_web = get_daily_papers(topic, query = keyword, max_results = 2)
         data_collector.append(data)
         data_collector_web.append(data_web)
 
         print("\n")
 
     # 1. update README.md file
-    # json_file = "STPA-arxiv-weekly.json"
-    json_file = "E:/crawler/LLMs_daily_arxiv/LLMs-arxiv-weekly.json"
-    md_file   = "E:/crawler/LLMs_daily_arxiv/README.md"
+    json_file = "LLMs-arxiv-daily.json"
+    md_file   = "README.md"
     # update json data
     update_json_file(json_file,data_collector)
     # json data to markdown
