@@ -17,6 +17,7 @@
 |---|---|---|---|---|
 |**2023-11-30**|**CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation**|Pei Ke et.al.|[2311.18702v1](http://arxiv.org/abs/2311.18702v1)|**[link](https://github.com/thu-coai/critiquellm)**|
 |**2023-11-30**|**Evaluating the Rationale Understanding of Critical Reasoning in Logical Reading Comprehension**|Akira Kawabata et.al.|[2311.18353v1](http://arxiv.org/abs/2311.18353v1)|null|
+|**2023-11-29**|**Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation**|Xijia Zhang et.al.|[2311.18062v1](http://arxiv.org/abs/2311.18062v1)|null|
 
 <p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
 
@@ -26,6 +27,7 @@
 |---|---|---|---|---|
 |**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836v1](http://arxiv.org/abs/2311.18836v1)|null|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
+|**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v1](http://arxiv.org/abs/2311.18743v1)|**[link](https://github.com/thudm/alignbench)**|
 
 <p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
 
@@ -35,6 +37,7 @@
 |---|---|---|---|---|
 |**2023-11-29**|**Understanding Your Agent: Leveraging Large Language Models for Behavior Explanation**|Xijia Zhang et.al.|[2311.18062v1](http://arxiv.org/abs/2311.18062v1)|null|
 |**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686v1](http://arxiv.org/abs/2311.17686v1)|null|
+|**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600v1](http://arxiv.org/abs/2311.17600v1)|null|
 
 <p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
 
@@ -44,6 +47,7 @@
 |---|---|---|---|---|
 |**2023-11-30**|**Situating the social issues of image generation models in the model life cycle: a sociotechnical approach**|Amelia Katirai et.al.|[2311.18345v1](http://arxiv.org/abs/2311.18345v1)|null|
 |**2023-11-28**|**The Transformative Influence of Large Language Models on Software Development**|Sajed Jalil et.al.|[2311.16429v1](http://arxiv.org/abs/2311.16429v1)|null|
+|**2023-11-23**|**PrivateLoRA For Efficient Privacy Preserving LLM**|Yiming Wang et.al.|[2311.14030v1](http://arxiv.org/abs/2311.14030v1)|null|
 
 <p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
 
@@ -53,6 +57,7 @@
 |---|---|---|---|---|
 |**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743v1](http://arxiv.org/abs/2311.18743v1)|**[link](https://github.com/thudm/alignbench)**|
 |**2023-11-30**|**LMRL Gym: Benchmarks for Multi-Turn Reinforcement Learning with Language Models**|Marwa Abdulhai et.al.|[2311.18232v1](http://arxiv.org/abs/2311.18232v1)|null|
+|**2023-11-29**|**TurkishBERTweet: Fast and Reliable Large Language Model for Social Media Analysis**|Ali Najafi et.al.|[2311.18063v1](http://arxiv.org/abs/2311.18063v1)|null|
 
 <p align=right>(<a href=#Updated-on-20231203>back to top</a>)</p>
 
