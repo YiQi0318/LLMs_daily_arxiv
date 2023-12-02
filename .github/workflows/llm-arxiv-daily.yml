@@ -7,7 +7,7 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
   schedule:
-    - cron:  "56 15 * * *"  #'*/60 * * * *'
+    - cron:  "02 16 * * *"  #'*/60 * * * *'
   # Triggers the workflow on push or pull request events but only for the main branch
 #   push:
 #     branches:
@@ -50,8 +50,8 @@ jobs:
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Github Action Automatic Update SNN Arxiv Papers"
-          files: README.md autonomous-driving-arxiv-daily.json
+          commit-message: "Github Action Automatic Update LLM Arxiv Papers"
+          files: README.md LLMs-arxiv-weekly.json
           rebase: 'true'
           name: ${{ env.GITHUB_USER_NAME }}
           email: ${{ env.GITHUB_USER_EMAIL }}
