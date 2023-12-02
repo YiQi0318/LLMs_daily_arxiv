@@ -235,11 +235,11 @@ if __name__ == "__main__":
     data_collector_web= []
     
     keywords = dict()
-    keywords["LLM - Explainability"]  = "\"Large language model\"AND\"Explainability\""
-    keywords["LLM - Interpretability"]  = "\"Large language model\"AND\"Interpretability\""
-    keywords["LLM - Safety"]  = "\"Large language model\"AND\"Safety\""
-    keywords["LLM - Privacy"]  = "\"Large language model\"AND\"Privacy\""
-    keywords["LLM - Reliability"]  = "\"Large language model\"AND\"Reliability\""
+    keywords["LLM - Explainable"]  = "\"Large language model\"AND\"Explainable\""
+    keywords["LLM - Interpretable"]  = "\"Large language model\"AND\"Interpretable\""
+    keywords["LLM - Reasoning"]  = "\"Large language model\"AND\"Reasoning\""
+    keywords["LLM - Uncertainty"]  = "\"Large language model\"AND\"Uncertainty\""
+    keywords["LLM - Perplexity"]  = "\"Large language model\"AND\"Perplexity\""
 
     for topic,keyword in keywords.items():
  
