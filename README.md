@@ -233,7 +233,7 @@
 |**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799v1](http://arxiv.org/abs/2311.18799v1)|**[link](https://github.com/artemisp/lavis-xinstructblip)**|
 |**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775v1](http://arxiv.org/abs/2311.18775v1)|null|
 |**2023-11-30**|**ArcMMLU: A Library and Information Science Benchmark for Large Language Models**|Shitou Zhang et.al.|[2311.18658v1](http://arxiv.org/abs/2311.18658v1)|**[link](https://github.com/stzhang-patrick/arcmmlu)**|
-|**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|null|
+|**2023-11-30**|**VTimeLLM: Empower LLM to Grasp Video Moments**|Bin Huang et.al.|[2311.18445v1](http://arxiv.org/abs/2311.18445v1)|**[link](https://github.com/huangb23/vtimellm)**|
 |**2023-11-30**|**IAG: Induction-Augmented Generation Framework for Answering Reasoning Questions**|Zhebin Zhang et.al.|[2311.18397v1](http://arxiv.org/abs/2311.18397v1)|null|
 |**2023-11-30**|**Evaluating the Rationale Understanding of Critical Reasoning in Logical Reading Comprehension**|Akira Kawabata et.al.|[2311.18353v1](http://arxiv.org/abs/2311.18353v1)|null|
 |**2023-11-30**|**Categorical Traffic Transformer: Interpretable and Diverse Behavior Prediction with Tokenized Latent**|Yuxiao Chen et.al.|[2311.18307v1](http://arxiv.org/abs/2311.18307v1)|null|
