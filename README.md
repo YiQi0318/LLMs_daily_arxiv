@@ -1,4 +1,4 @@
-## Updated on 2024.02.02
+## Updated on 2024.02.03
 
 <details>
   <summary>Table of Contents</summary>
@@ -177,7 +177,7 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240203>back to top</a>)</p>
 
 ## LLM - Interpretable
 
@@ -431,7 +431,7 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240203>back to top</a>)</p>
 
 ## LLM - Reasoning
 
@@ -439,7 +439,7 @@
 |---|---|---|---|---|
 |**2024-02-01**|**SymbolicAI: A framework for logic-based approaches combining generative models and solvers**|Marius-Constantin Dinu et.al.|[2402.00854v1](http://arxiv.org/abs/2402.00854v1)|**[link](https://github.com/extensityai/benchmark)**|
 |**2024-02-01**|**Enhancing Ethical Explanations of Large Language Models through Iterative Symbolic Refinement**|Xin Quan et.al.|[2402.00745v1](http://arxiv.org/abs/2402.00745v1)|**[link](https://github.com/neuro-symbolic-ai/explanation_based_ethical_reasoning)**|
-|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658v1](http://arxiv.org/abs/2402.00658v1)|null|
+|**2024-02-01**|**Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**|Fangkai Jiao et.al.|[2402.00658v1](http://arxiv.org/abs/2402.00658v1)|**[link](https://github.com/sparkjiao/rl-trajectory-reasoning)**|
 |**2024-02-01**|**Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration**|Shangbin Feng et.al.|[2402.00367v1](http://arxiv.org/abs/2402.00367v1)|null|
 |**2024-02-01**|**Computational Experiments Meet Large Language Model Based Agents: A Survey and Perspective**|Qun Ma et.al.|[2402.00262v1](http://arxiv.org/abs/2402.00262v1)|null|
 |**2024-01-31**|**Large Language Models for Mathematical Reasoning: Progresses and Challenges**|Janice Ahn et.al.|[2402.00157v1](http://arxiv.org/abs/2402.00157v1)|null|
@@ -888,7 +888,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240203>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -928,7 +928,7 @@
 |**2023-11-26**|**Benchmarking Large Language Model Volatility**|Boyang Yu et.al.|[2311.15180v1](http://arxiv.org/abs/2311.15180v1)|null|
 |**2023-11-22**|**Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus**|Tianhang Zhang et.al.|[2311.13230v1](http://arxiv.org/abs/2311.13230v1)|**[link](https://github.com/zthang/focus)**|
 |**2023-11-16**|**Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown**|Genglin Liu et.al.|[2311.09731v1](http://arxiv.org/abs/2311.09731v1)|null|
-|**2023-11-16**|**R-Tuning: Teaching Large Language Models to Refuse Unknown Questions**|Hanning Zhang et.al.|[2311.09677v1](http://arxiv.org/abs/2311.09677v1)|null|
+|**2023-11-16**|**R-Tuning: Teaching Large Language Models to Refuse Unknown Questions**|Hanning Zhang et.al.|[2311.09677v1](http://arxiv.org/abs/2311.09677v1)|**[link](https://github.com/shizhediao/r-tuning)**|
 |**2023-11-15**|**Empirical evaluation of Uncertainty Quantification in Retrieval-Augmented Language Models for Science**|Sridevi Wagle et.al.|[2311.09358v1](http://arxiv.org/abs/2311.09358v1)|**[link](https://github.com/pnnl/expert2)**|
 |**2023-11-15**|**Pinpoint, Not Criticize: Refining Large Language Models via Fine-Grained Actionable Feedback**|Wenda Xu et.al.|[2311.09336v1](http://arxiv.org/abs/2311.09336v1)|null|
 |**2023-11-15**|**Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling**|Bairu Hou et.al.|[2311.08718v1](http://arxiv.org/abs/2311.08718v1)|**[link](https://github.com/ucsb-nlp-chang/llm_uncertainty)**|
@@ -1019,7 +1019,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240203>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -1103,5 +1103,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240202>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240203>back to top</a>)</p>
 
