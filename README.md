@@ -1,4 +1,4 @@
-## Updated on 2024.02.09
+## Updated on 2024.02.10
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2024-01-12**|**Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102v2](http://arxiv.org/abs/2401.06102v2)|null|
 |**2024-01-11**|**Video Anomaly Detection and Explanation via Large Language Models**|Hui Lv et.al.|[2401.05702v1](http://arxiv.org/abs/2401.05702v1)|null|
 |**2024-01-11**|**REBUS: A Robust Evaluation Benchmark of Understanding Symbols**|Andrew Gritsevskiy et.al.|[2401.05604v1](http://arxiv.org/abs/2401.05604v1)|**[link](https://github.com/cvndsh/rebus)**|
-|**2024-01-08**|**LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems**|Mohamad Fakih et.al.|[2401.05443v1](http://arxiv.org/abs/2401.05443v1)|null|
+|**2024-01-08**|**LLM4PLC: Harnessing Large Language Models for Verifiable Programming of PLCs in Industrial Control Systems**|Mohamad Fakih et.al.|[2401.05443v1](http://arxiv.org/abs/2401.05443v1)|**[link](https://github.com/AICPS/LLM_4_PLC)**|
 |**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997v1](http://arxiv.org/abs/2401.04997v1)|null|
 |**2024-01-08**|**ExTraCT -- Explainable Trajectory Corrections from language inputs using Textual description of features**|J-Anne Yow et.al.|[2401.03701v1](http://arxiv.org/abs/2401.03701v1)|null|
 |**2024-01-06**|**Autonomous Crowdsensing: Operating and Organizing Crowdsensing for Sensing Automation**|Wansen Wu et.al.|[2401.03229v1](http://arxiv.org/abs/2401.03229v1)|null|
@@ -197,7 +197,7 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## LLM - Interpretable
 
@@ -482,7 +482,7 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## LLM - Reasoning
 
@@ -1014,7 +1014,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -1156,7 +1156,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -1245,5 +1245,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240209>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240210>back to top</a>)</p>
 
