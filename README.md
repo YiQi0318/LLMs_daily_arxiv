@@ -1,4 +1,4 @@
-## Updated on 2024.03.06
+## Updated on 2024.03.07
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Multimodal Large Language Models to Support Real-World Fact-Checking**|Jiahui Geng et.al.|[2403.03627v1](http://arxiv.org/abs/2403.03627v1)|null|
+|**2024-03-06**|**RouteExplainer: An Explanation Framework for Vehicle Routing Problem**|Daisuke Kikuta et.al.|[2403.03585v1](http://arxiv.org/abs/2403.03585v1)|**[link](https://github.com/ntt-dkiku/route-explainer)**|
+|**2024-03-06**|**Explaining Genetic Programming Trees using Large Language Models**|Paula Maddigan et.al.|[2403.03397v1](http://arxiv.org/abs/2403.03397v1)|null|
 |**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170v1](http://arxiv.org/abs/2403.03170v1)|null|
 |**2024-03-05**|**Word Importance Explains How Prompts Affect Language Model Outputs**|Stefan Hackmann et.al.|[2403.03028v1](http://arxiv.org/abs/2403.03028v1)|null|
 |**2024-03-05**|**FinReport: Explainable Stock Earnings Forecasting via News Factor Analyzing Model**|Xiangyu Li et.al.|[2403.02647v1](http://arxiv.org/abs/2403.02647v1)|**[link](https://github.com/frinkleko/finreport)**|
@@ -257,12 +260,16 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240307>back to top</a>)</p>
 
 ## LLM - Interpretable
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864v1](http://arxiv.org/abs/2403.03864v1)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
+|**2024-03-06**|**Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery**|Wei Zhang et.al.|[2403.03790v1](http://arxiv.org/abs/2403.03790v1)|null|
+|**2024-03-06**|**GPTopic: Dynamic and Interactive Topic Representations**|Arik Reuter et.al.|[2403.03628v1](http://arxiv.org/abs/2403.03628v1)|null|
+|**2024-03-06**|**Explaining Genetic Programming Trees using Large Language Models**|Paula Maddigan et.al.|[2403.03397v1](http://arxiv.org/abs/2403.03397v1)|null|
 |**2024-03-05**|**Towards Democratized Flood Risk Management: An Advanced AI Assistant Enabled by GPT-4 for Enhanced Interpretability and Public Engagement**|Rafaela Martelo et.al.|[2403.03188v1](http://arxiv.org/abs/2403.03188v1)|**[link](https://github.com/rafaelamartelo/floodgpt-4_prototype)**|
 |**2024-03-05**|**HINTs: Sensemaking on large collections of documents with Hypergraph visualization and INTelligent agents**|Sam Yu-Te Lee et.al.|[2403.02752v1](http://arxiv.org/abs/2403.02752v1)|null|
 |**2024-03-05**|**HARGPT: Are LLMs Zero-Shot Human Activity Recognizers?**|Sijie Ji et.al.|[2403.02727v1](http://arxiv.org/abs/2403.02727v1)|null|
@@ -633,12 +640,21 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240307>back to top</a>)</p>
 
 ## LLM - Reasoning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Learning to Decode Collaboratively with Multiple Language Models**|Shannon Zejiang Shen et.al.|[2403.03870v1](http://arxiv.org/abs/2403.03870v1)|**[link](https://github.com/clinicalml/co-llm)**|
+|**2024-03-06**|**Are Language Models Puzzle Prodigies? Algorithmic Puzzles Unveil Serious Challenges in Multimodal Reasoning**|Deepanway Ghosal et.al.|[2403.03864v1](http://arxiv.org/abs/2403.03864v1)|**[link](https://github.com/declare-lab/puzzle-reasoning)**|
+|**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788v1](http://arxiv.org/abs/2403.03788v1)|**[link](https://github.com/zekaigalaxy/pptcr)**|
+|**2024-03-06**|**SheetAgent: A Generalist Agent for Spreadsheet Reasoning and Manipulation via Large Language Models**|Yibin Chen et.al.|[2403.03636v1](http://arxiv.org/abs/2403.03636v1)|null|
+|**2024-03-06**|**Multimodal Large Language Models to Support Real-World Fact-Checking**|Jiahui Geng et.al.|[2403.03627v1](http://arxiv.org/abs/2403.03627v1)|null|
+|**2024-03-06**|**RouteExplainer: An Explanation Framework for Vehicle Routing Problem**|Daisuke Kikuta et.al.|[2403.03585v1](http://arxiv.org/abs/2403.03585v1)|**[link](https://github.com/ntt-dkiku/route-explainer)**|
+|**2024-03-06**|**Towards Efficient and Effective Unlearning of Large Language Models for Recommendation**|Hangyu Wang et.al.|[2403.03536v1](http://arxiv.org/abs/2403.03536v1)|**[link](https://github.com/justarter/e2urec)**|
+|**2024-03-06**|**Generative News Recommendation**|Shen Gao et.al.|[2403.03424v1](http://arxiv.org/abs/2403.03424v1)|null|
+|**2024-03-05**|**Should We Fear Large Language Models? A Structural Analysis of the Human Reasoning System for Elucidating LLM Capabilities and Risks Through the Lens of Heidegger's Philosophy**|Jianqiiu Zhang et.al.|[2403.03288v1](http://arxiv.org/abs/2403.03288v1)|null|
 |**2024-03-05**|**CLEVR-POC: Reasoning-Intensive Visual Question Answering in Partially Observable Environments**|Savitha Sam Abraham et.al.|[2403.03203v1](http://arxiv.org/abs/2403.03203v1)|null|
 |**2024-03-05**|**SNIFFER: Multimodal Large Language Model for Explainable Out-of-Context Misinformation Detection**|Peng Qi et.al.|[2403.03170v1](http://arxiv.org/abs/2403.03170v1)|null|
 |**2024-03-05**|**PARADISE: Evaluating Implicit Planning Skills of Language Models with Procedural Warnings and Tips Dataset**|Arda Uzunoğlu et.al.|[2403.03167v1](http://arxiv.org/abs/2403.03167v1)|**[link](https://github.com/gglab-ku/paradise)**|
@@ -686,7 +702,7 @@
 |**2024-02-29**|**StarCoder 2 and The Stack v2: The Next Generation**|Anton Lozhkov et.al.|[2402.19173v1](http://arxiv.org/abs/2402.19173v1)|null|
 |**2024-02-29**|**Typographic Attacks in Large Multimodal Models Can be Alleviated by More Informative Prompts**|Hao Cheng et.al.|[2402.19150v1](http://arxiv.org/abs/2402.19150v1)|null|
 |**2024-02-29**|**On the Decision-Making Abilities in Role-Playing using Large Language Models**|Chenglei Shen et.al.|[2402.18807v1](http://arxiv.org/abs/2402.18807v1)|null|
-|**2024-02-28**|**Grounding Language Models for Visual Entity Recognition**|Zilin Xiao et.al.|[2402.18695v1](http://arxiv.org/abs/2402.18695v1)|null|
+|**2024-02-28**|**Grounding Language Models for Visual Entity Recognition**|Zilin Xiao et.al.|[2402.18695v1](http://arxiv.org/abs/2402.18695v1)|**[link](https://github.com/mrzilinxiao/autover)**|
 |**2024-03-04**|**Data Interpreter: An LLM Agent For Data Science**|Sirui Hong et.al.|[2402.18679v2](http://arxiv.org/abs/2402.18679v2)|**[link](https://github.com/geekan/metagpt)**|
 |**2024-02-28**|**A Categorization of Complexity Classes for Information Retrieval and Synthesis Using Natural Logic**|Gregory Coppola et.al.|[2402.18566v1](http://arxiv.org/abs/2402.18566v1)|null|
 |**2024-02-29**|**Language Models Represent Beliefs of Self and Others**|Wentao Zhu et.al.|[2402.18496v2](http://arxiv.org/abs/2402.18496v2)|null|
@@ -721,7 +737,7 @@
 |**2024-02-25**|**AVI-Talking: Learning Audio-Visual Instructions for Expressive 3D Talking Face Generation**|Yasheng Sun et.al.|[2402.16124v1](http://arxiv.org/abs/2402.16124v1)|null|
 |**2024-02-25**|**RoboCodeX: Multimodal Code Generation for Robotic Behavior Synthesis**|Yao Mu et.al.|[2402.16117v1](http://arxiv.org/abs/2402.16117v1)|null|
 |**2024-02-25**|**LLMs with Chain-of-Thought Are Non-Causal Reasoners**|Guangsheng Bao et.al.|[2402.16048v1](http://arxiv.org/abs/2402.16048v1)|**[link](https://github.com/stevenzhb/cot_causal_analysis)**|
-|**2024-02-25**|**GraphWiz: An Instruction-Following Language Model for Graph Problems**|Nuo Chen et.al.|[2402.16029v1](http://arxiv.org/abs/2402.16029v1)|null|
+|**2024-03-06**|**GraphWiz: An Instruction-Following Language Model for Graph Problems**|Nuo Chen et.al.|[2402.16029v2](http://arxiv.org/abs/2402.16029v2)|null|
 |**2024-02-25**|**From Noise to Clarity: Unraveling the Adversarial Suffix of Large Language Model Attacks via Translation of Text Embeddings**|Hao Wang et.al.|[2402.16006v1](http://arxiv.org/abs/2402.16006v1)|null|
 |**2024-02-24**|**SportQA: A Benchmark for Sports Understanding in Large Language Models**|Haotian Xia et.al.|[2402.15862v1](http://arxiv.org/abs/2402.15862v1)|null|
 |**2024-02-24**|**Linguistic Intelligence in Large Language Models for Telecommunications**|Tasnim Ahmed et.al.|[2402.15818v1](http://arxiv.org/abs/2402.15818v1)|null|
@@ -1440,7 +1456,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240307>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -1489,7 +1505,7 @@
 |**2024-02-03**|**A Survey on Context-Aware Multi-Agent Systems: Techniques, Challenges and Future Directions**|Hung Du et.al.|[2402.01968v1](http://arxiv.org/abs/2402.01968v1)|null|
 |**2024-02-01**|**Efficient Exploration for LLMs**|Vikranth Dwaracherla et.al.|[2402.00396v1](http://arxiv.org/abs/2402.00396v1)|null|
 |**2024-02-01**|**Efficient Non-Parametric Uncertainty Quantification for Black-Box Large Language Models and Decision Planning**|Yao-Hung Hubert Tsai et.al.|[2402.00251v1](http://arxiv.org/abs/2402.00251v1)|null|
-|**2024-02-23**|**SelectLLM: Can LLMs Select Important Instructions to Annotate?**|Ritik Sachin Parkar et.al.|[2401.16553v3](http://arxiv.org/abs/2401.16553v3)|**[link](https://github.com/minnesotanlp/select-llm)**|
+|**2024-03-05**|**SelectLLM: Can LLMs Select Important Instructions to Annotate?**|Ritik Sachin Parkar et.al.|[2401.16553v4](http://arxiv.org/abs/2401.16553v4)|**[link](https://github.com/minnesotanlp/select-llm)**|
 |**2024-01-29**|**Credit Risk Meets Large Language Models: Building a Risk Indicator from Loan Descriptions in P2P Lending**|Mario Sanz-Guerrero et.al.|[2401.16458v1](http://arxiv.org/abs/2401.16458v1)|null|
 |**2024-02-04**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077v2](http://arxiv.org/abs/2401.15077v2)|**[link](https://github.com/safeailab/eagle)**|
 |**2024-02-08**|**Towards Uncertainty-Aware Language Agent**|Jiuzhou Han et.al.|[2401.14016v2](http://arxiv.org/abs/2401.14016v2)|null|
@@ -1613,7 +1629,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240307>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -1716,5 +1732,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240306>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240307>back to top</a>)</p>
 
