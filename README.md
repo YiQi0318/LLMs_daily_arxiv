@@ -1,4 +1,4 @@
-## Updated on 2024.04.12
+## Updated on 2024.04.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -332,7 +332,7 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240413>back to top</a>)</p>
 
 ## LLM - Interpretable
 
@@ -374,7 +374,7 @@
 |**2024-03-31**|**Harnessing the Power of Large Language Model for Uncertainty Aware Graph Processing**|Zhenyu Qian et.al.|[2404.00589v1](http://arxiv.org/abs/2404.00589v1)|**[link](https://github.com/code4paper-2024/code4paper)**|
 |**2024-03-30**|**PROMPT-SAW: Leveraging Relation-Aware Graphs for Textual Prompt Compression**|Muhammad Asif Ali et.al.|[2404.00489v1](http://arxiv.org/abs/2404.00489v1)|null|
 |**2024-03-30**|**Do Vision-Language Models Understand Compound Nouns?**|Sonal Kumar et.al.|[2404.00419v1](http://arxiv.org/abs/2404.00419v1)|null|
-|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|null|
+|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|**[link](https://github.com/hkust-knowcomp/eventground)**|
 |**2024-03-29**|**User Modeling Challenges in Interactive AI Assistant Systems**|Megan Su et.al.|[2403.20134v1](http://arxiv.org/abs/2403.20134v1)|null|
 |**2024-03-28**|**Multi-Frame, Lightweight & Efficient Vision-Language Models for Question Answering in Autonomous Driving**|Akshay Gopalkrishnan et.al.|[2403.19838v1](http://arxiv.org/abs/2403.19838v1)|**[link](https://github.com/akshaygopalkr/em-vlm4ad)**|
 |**2024-03-28**|**AlloyBERT: Alloy Property Prediction with Large Language Models**|Akshat Chaudhari et.al.|[2403.19783v1](http://arxiv.org/abs/2403.19783v1)|null|
@@ -420,7 +420,7 @@
 |**2024-04-02**|**Investigating Markers and Drivers of Gender Bias in Machine Translations**|Peter J Barclay et.al.|[2403.11896v2](http://arxiv.org/abs/2403.11896v2)|null|
 |**2024-03-18**|**Metaphor Understanding Challenge Dataset for LLMs**|Xiaoyu Tong et.al.|[2403.11810v1](http://arxiv.org/abs/2403.11810v1)|null|
 |**2024-03-22**|**Scene-LLM: Extending Language Model for 3D Visual Understanding and Reasoning**|Rao Fu et.al.|[2403.11401v2](http://arxiv.org/abs/2403.11401v2)|null|
-|**2024-04-10**|**StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows**|Yiran Wu et.al.|[2403.11322v3](http://arxiv.org/abs/2403.11322v3)|null|
+|**2024-04-10**|**StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows**|Yiran Wu et.al.|[2403.11322v3](http://arxiv.org/abs/2403.11322v3)|**[link](https://github.com/kaebvcidn/stateflow)**|
 |**2024-03-17**|**ManipVQA: Injecting Robotic Affordance and Physically Grounded Information into Multi-Modal Large Language Models**|Siyuan Huang et.al.|[2403.11289v1](http://arxiv.org/abs/2403.11289v1)|**[link](https://github.com/siyuanhuang95/manipvqa)**|
 |**2024-03-26**|**SelfIE: Self-Interpretation of Large Language Model Embeddings**|Haozhe Chen et.al.|[2403.10949v2](http://arxiv.org/abs/2403.10949v2)|**[link](https://github.com/tonychenxyz/selfie)**|
 |**2024-03-16**|**A Comprehensive Study of Multimodal Large Language Models for Image Quality Assessment**|Tianhe Wu et.al.|[2403.10854v1](http://arxiv.org/abs/2403.10854v1)|**[link](https://github.com/tianhewu/mllms-for-iqa)**|
@@ -825,7 +825,7 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240413>back to top</a>)</p>
 
 ## LLM - Reasoning
 
@@ -835,7 +835,7 @@
 |**2024-04-11**|**ODA: Observation-Driven Agent for integrating LLMs and Knowledge Graphs**|Lei Sun et.al.|[2404.07677v1](http://arxiv.org/abs/2404.07677v1)|null|
 |**2024-04-11**|**WESE: Weak Exploration to Strong Exploitation for LLM Agents**|Xu Huang et.al.|[2404.07456v1](http://arxiv.org/abs/2404.07456v1)|null|
 |**2024-04-11**|**Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs**|Kanchana Ranasinghe et.al.|[2404.07449v1](http://arxiv.org/abs/2404.07449v1)|null|
-|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|null|
+|**2024-04-10**|**Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs**|Bowen Jin et.al.|[2404.07103v1](http://arxiv.org/abs/2404.07103v1)|**[link](https://github.com/petergriffinjin/graph-cot)**|
 |**2024-04-10**|**VLLMs Provide Better Context for Emotion Understanding Through Common Sense Reasoning**|Alexandros Xenos et.al.|[2404.07078v1](http://arxiv.org/abs/2404.07078v1)|**[link](https://github.com/nickyfot/emocommonsense)**|
 |**2024-04-10**|**Advancing Real-time Pandemic Forecasting Using Large Language Models: A COVID-19 Case Study**|Hongru Du et.al.|[2404.06962v1](http://arxiv.org/abs/2404.06962v1)|**[link](https://github.com/miemieyanga/pandemicllm)**|
 |**2024-04-10**|**Vision-Language Model-based Physical Reasoning for Robot Liquid Perception**|Wenqiang Lai et.al.|[2404.06904v1](http://arxiv.org/abs/2404.06904v1)|null|
@@ -931,7 +931,7 @@
 |**2024-03-30**|**Aligning Large Language Models with Recommendation Knowledge**|Yuwei Cao et.al.|[2404.00245v1](http://arxiv.org/abs/2404.00245v1)|null|
 |**2024-03-30**|**DeFT: Flash Tree-attention with IO-Awareness for Efficient Tree-search-based LLM Inference**|Jinwei Yao et.al.|[2404.00242v1](http://arxiv.org/abs/2404.00242v1)|null|
 |**2024-03-30**|**Multi-Conditional Ranking with Large Language Models**|Pouya Pezeshkpour et.al.|[2404.00211v1](http://arxiv.org/abs/2404.00211v1)|**[link](https://github.com/megagonlabs/mcr)**|
-|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|null|
+|**2024-03-30**|**EventGround: Narrative Reasoning by Grounding to Eventuality-centric Knowledge Graphs**|Cheng Jiayang et.al.|[2404.00209v1](http://arxiv.org/abs/2404.00209v1)|**[link](https://github.com/hkust-knowcomp/eventground)**|
 |**2024-03-30**|**Conceptual and Unbiased Reasoning in Language Models**|Ben Zhou et.al.|[2404.00205v1](http://arxiv.org/abs/2404.00205v1)|null|
 |**2024-03-29**|**Classifying Conspiratorial Narratives At Scale: False Alarms and Erroneous Connections**|Ahmad Diab et.al.|[2404.00141v1](http://arxiv.org/abs/2404.00141v1)|null|
 |**2024-03-29**|**Measuring Taiwanese Mandarin Language Understanding**|Po-Heng Chen et.al.|[2403.20180v1](http://arxiv.org/abs/2403.20180v1)|null|
@@ -1938,7 +1938,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240413>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -2130,7 +2130,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240413>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -2245,5 +2245,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240412>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240413>back to top</a>)</p>
 
