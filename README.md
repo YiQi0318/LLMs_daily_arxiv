@@ -1,4 +1,4 @@
-## Updated on 2024.04.20
+## Updated on 2024.04.21
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 |**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372v1](http://arxiv.org/abs/2404.12372v1)|null|
 |**2024-04-18**|**Concept Induction using LLMs: a user experiment for assessment**|Adrita Barua et.al.|[2404.11875v1](http://arxiv.org/abs/2404.11875v1)|null|
 |**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876v1](http://arxiv.org/abs/2404.10876v1)|null|
-|**2024-04-16**|**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**|Hengyuan Zhang et.al.|[2404.10306v1](http://arxiv.org/abs/2404.10306v1)|null|
+|**2024-04-16**|**Balancing Speciality and Versatility: a Coarse to Fine Framework for Supervised Fine-tuning Large Language Model**|Hengyuan Zhang et.al.|[2404.10306v1](http://arxiv.org/abs/2404.10306v1)|**[link](https://github.com/rattlesnakey/cofitune)**|
 |**2024-04-11**|**Distilling Algorithmic Reasoning from LLMs via Explaining Solution Programs**|Jierui Li et.al.|[2404.08148v1](http://arxiv.org/abs/2404.08148v1)|null|
 |**2024-04-11**|**Unraveling the Dilemma of AI Errors: Exploring the Effectiveness of Human and Machine Explanations for Large Language Models**|Marvin Pafla et.al.|[2404.07725v1](http://arxiv.org/abs/2404.07725v1)|null|
 |**2024-04-07**|**Explaining EDA synthesis errors with LLMs**|Siyu Qiu et.al.|[2404.07235v1](http://arxiv.org/abs/2404.07235v1)|null|
@@ -338,7 +338,7 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240421>back to top</a>)</p>
 
 ## LLM - Interpretable
 
@@ -857,7 +857,7 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240421>back to top</a>)</p>
 
 ## LLM - Reasoning
 
@@ -2026,7 +2026,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240421>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -2086,7 +2086,7 @@
 |**2024-02-16**|**Inference to the Best Explanation in Large Language Models**|Dhairya Dalal et.al.|[2402.10767v1](http://arxiv.org/abs/2402.10767v1)|null|
 |**2024-02-27**|**LinkNER: Linking Local Named Entity Recognition Models to Large Language Models using Uncertainty**|Zhen Zhang et.al.|[2402.10573v2](http://arxiv.org/abs/2402.10573v2)|null|
 |**2024-03-28**|**Uncertainty Quantification for In-Context Learning of Large Language Models**|Chen Ling et.al.|[2402.10189v2](http://arxiv.org/abs/2402.10189v2)|**[link](https://github.com/lingchen0331/uq_icl)**|
-|**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614v1](http://arxiv.org/abs/2402.09614v1)|null|
+|**2024-02-14**|**Probabilistic Reasoning in Generative Large Language Models**|Aliakbar Nafar et.al.|[2402.09614v1](http://arxiv.org/abs/2402.09614v1)|**[link](https://github.com/hlr/blind)**|
 |**2024-02-16**|**Pushing The Limit of LLM Capacity for Text Classification**|Yazhou Zhang et.al.|[2402.07470v2](http://arxiv.org/abs/2402.07470v2)|null|
 |**2024-02-18**|**Introspective Planning: Guiding Language-Enabled Agents to Refine Their Own Uncertainty**|Kaiqu Liang et.al.|[2402.06529v2](http://arxiv.org/abs/2402.06529v2)|null|
 |**2024-01-12**|**Uncertainty Awareness of Large Language Models Under Code Distribution Shifts: A Benchmark Study**|Yufei Li et.al.|[2402.05939v1](http://arxiv.org/abs/2402.05939v1)|**[link](https://github.com/yul091/llmuncertainty)**|
@@ -2227,7 +2227,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240421>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -2344,5 +2344,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240420>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240421>back to top</a>)</p>
 
