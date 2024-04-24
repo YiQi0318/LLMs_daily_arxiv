@@ -1,4 +1,4 @@
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 
 <details>
   <summary>Table of Contents</summary>
@@ -15,6 +15,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166v1](http://arxiv.org/abs/2404.15166v1)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928v1](http://arxiv.org/abs/2404.14928v1)|null|
 |**2024-04-22**|**Explaining Arguments' Strength: Unveiling the Role of Attacks and Supports (Technical Report)**|Xiang Yin et.al.|[2404.14304v1](http://arxiv.org/abs/2404.14304v1)|null|
 |**2024-04-22**|**Does Your Neural Code Completion Model Use My Code? A Membership Inference Approach**|Yao Wan et.al.|[2404.14296v1](http://arxiv.org/abs/2404.14296v1)|null|
 |**2024-04-22**|**EventLens: Leveraging Event-Aware Pretraining and Cross-modal Linking Enhances Visual Commonsense Reasoning**|Mingjie Ma et.al.|[2404.13847v1](http://arxiv.org/abs/2404.13847v1)|null|
@@ -80,7 +82,7 @@
 |**2024-03-15**|**A Question on the Explainability of Large Language Models and the Word-Level Univariate First-Order Plausibility Assumption**|Jeremie Bogaert et.al.|[2403.10275v1](http://arxiv.org/abs/2403.10275v1)|null|
 |**2024-03-15**|**Language to Map: Topological map generation from natural language path instructions**|Hideki Deguchi et.al.|[2403.10008v1](http://arxiv.org/abs/2403.10008v1)|null|
 |**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606v1](http://arxiv.org/abs/2403.09606v1)|null|
-|**2024-03-14**|**Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models**|Laura Fernández-Becerra et.al.|[2403.09567v1](http://arxiv.org/abs/2403.09567v1)|null|
+|**2024-04-23**|**Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models**|Laura Fernández-Becerra et.al.|[2403.09567v2](http://arxiv.org/abs/2403.09567v2)|null|
 |**2024-03-14**|**XCoOp: Explainable Prompt Learning for Computer-Aided Diagnosis via Concept-guided Context Optimization**|Yequan Bie et.al.|[2403.09410v1](http://arxiv.org/abs/2403.09410v1)|null|
 |**2024-03-14**|**Meaningful Learning: Advancing Abstract Reasoning in Large Language Models via Generic Fact Guidance**|Kai Xiong et.al.|[2403.09085v1](http://arxiv.org/abs/2403.09085v1)|null|
 |**2024-03-13**|**Usable XAI: 10 Strategies Towards Exploiting Explainability in the LLM Era**|Xuansheng Wu et.al.|[2403.08946v1](http://arxiv.org/abs/2403.08946v1)|**[link](https://github.com/jacksonwuxs/usablexai_llm)**|
@@ -342,12 +344,18 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## LLM - Interpretable
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269v1](http://arxiv.org/abs/2404.15269v1)|null|
+|**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166v1](http://arxiv.org/abs/2404.15166v1)|null|
+|**2024-04-23**|**Language in Vivo vs. in Silico: Size Matters but Larger Language Models Still Do Not Comprehend Language on a Par with Humans**|Vittoria Dentella et.al.|[2404.14883v1](http://arxiv.org/abs/2404.14883v1)|null|
+|**2024-04-23**|**Think-Program-reCtify: 3D Situated Reasoning with Large Language Models**|Qingrong He et.al.|[2404.14705v1](http://arxiv.org/abs/2404.14705v1)|null|
+|**2024-04-22**|**Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**|Mengzhao Jia et.al.|[2404.14604v1](http://arxiv.org/abs/2404.14604v1)|null|
+|**2024-04-22**|**Integrating Disambiguation and User Preferences into Large Language Models for Robot Motion Planning**|Mohammed Abugurain et.al.|[2404.14547v1](http://arxiv.org/abs/2404.14547v1)|null|
 |**2024-04-22**|**CoFInAl: Enhancing Action Quality Assessment with Coarse-to-Fine Instruction Alignment**|Kanglei Zhou et.al.|[2404.13999v1](http://arxiv.org/abs/2404.13999v1)|**[link](https://github.com/zhoukanglei/cofinal_aqa)**|
 |**2024-04-21**|**Towards General Conceptual Model Editing via Adversarial Representation Engineering**|Yihao Zhang et.al.|[2404.13752v1](http://arxiv.org/abs/2404.13752v1)|**[link](https://github.com/zhang-yihao/adversarial-representation-engineering)**|
 |**2024-04-21**|**FiLo: Zero-Shot Anomaly Detection by Fine-Grained Description and High-Quality Localization**|Zhaopeng Gu et.al.|[2404.13671v1](http://arxiv.org/abs/2404.13671v1)|null|
@@ -361,7 +369,7 @@
 |**2024-04-19**|**Just Like Me: The Role of Opinions and Personal Experiences in The Perception of Explanations in Subjective Decision-Making**|Sharon Ferguson et.al.|[2404.12558v1](http://arxiv.org/abs/2404.12558v1)|null|
 |**2024-04-18**|**BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models**|Yu Feng et.al.|[2404.12494v1](http://arxiv.org/abs/2404.12494v1)|null|
 |**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372v1](http://arxiv.org/abs/2404.12372v1)|null|
-|**2024-04-21**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317v2](http://arxiv.org/abs/2404.12317v2)|null|
+|**2024-04-23**|**Large Language Models for Synthetic Participatory Planning of Synergistic Transportation Systems**|Jiangbo Yu et.al.|[2404.12317v3](http://arxiv.org/abs/2404.12317v3)|null|
 |**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299v1](http://arxiv.org/abs/2404.12299v1)|null|
 |**2024-04-18**|**Concept Induction: Analyzing Unstructured Text with High-Level Concepts Using LLooM**|Michelle S. Lam et.al.|[2404.12259v1](http://arxiv.org/abs/2404.12259v1)|**[link](https://github.com/michelle123lam/lloom)**|
 |**2024-04-18**|**EVIT: Event-Oriented Instruction Tuning for Event Reasoning**|Zhengwei Tao et.al.|[2404.11978v1](http://arxiv.org/abs/2404.11978v1)|null|
@@ -873,12 +881,27 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## LLM - Reasoning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Re-Thinking Inverse Graphics With Large Language Models**|Peter Kulits et.al.|[2404.15228v1](http://arxiv.org/abs/2404.15228v1)|null|
+|**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156v1](http://arxiv.org/abs/2404.15156v1)|null|
+|**2024-04-23**|**Rethinking LLM Memorization through the Lens of Adversarial Compression**|Avi Schwarzschild et.al.|[2404.15146v1](http://arxiv.org/abs/2404.15146v1)|null|
+|**2024-04-23**|**Achieving >97% on GSM8K: Deeply Understanding the Problems Makes LLMs Perfect Reasoners**|Qihuang Zhong et.al.|[2404.14963v1](http://arxiv.org/abs/2404.14963v1)|null|
+|**2024-04-23**|**Graph Machine Learning in the Era of Large Language Models (LLMs)**|Wenqi Fan et.al.|[2404.14928v1](http://arxiv.org/abs/2404.14928v1)|null|
+|**2024-04-23**|**Pattern-Aware Chain-of-Thought Prompting in Large Language Models**|Yufeng Zhang et.al.|[2404.14812v1](http://arxiv.org/abs/2404.14812v1)|null|
+|**2024-04-23**|**A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications**|Wenbo Shang et.al.|[2404.14809v1](http://arxiv.org/abs/2404.14809v1)|null|
+|**2024-04-23**|**Med42 -- Evaluating Fine-Tuning Strategies for Medical LLMs: Full-Parameter vs. Parameter-Efficient Approaches**|Clément Christophe et.al.|[2404.14779v1](http://arxiv.org/abs/2404.14779v1)|null|
+|**2024-04-23**|**CT-Agent: Clinical Trial Multi-Agent with Large Language Model-based Reasoning**|Ling Yue et.al.|[2404.14777v1](http://arxiv.org/abs/2404.14777v1)|null|
+|**2024-04-23**|**Insights into Alignment: Evaluating DPO and its Variants Across Multiple Tasks**|Amir Saeidi et.al.|[2404.14723v1](http://arxiv.org/abs/2404.14723v1)|null|
+|**2024-04-23**|**Think-Program-reCtify: 3D Situated Reasoning with Large Language Models**|Qingrong He et.al.|[2404.14705v1](http://arxiv.org/abs/2404.14705v1)|null|
+|**2024-04-23**|**NExT: Teaching Large Language Models to Reason about Code Execution**|Ansong Ni et.al.|[2404.14662v1](http://arxiv.org/abs/2404.14662v1)|null|
+|**2024-04-22**|**Describe-then-Reason: Improving Multimodal Mathematical Reasoning through Visual Comprehension Training**|Mengzhao Jia et.al.|[2404.14604v1](http://arxiv.org/abs/2404.14604v1)|null|
+|**2024-04-22**|**Tree of Reviews: A Tree-based Dynamic Iterative Retrieval Framework for Multi-hop Question Answering**|Li Jiapeng et.al.|[2404.14464v1](http://arxiv.org/abs/2404.14464v1)|null|
+|**2024-04-14**|**Enhancing Fault Detection for Large Language Models via Mutation-Based Confidence Smoothing**|Qiang Hu et.al.|[2404.14419v1](http://arxiv.org/abs/2404.14419v1)|null|
 |**2024-04-22**|**An Artificial Neuron for Enhanced Problem Solving in Large Language Models**|Sumedh Rasal et.al.|[2404.14222v1](http://arxiv.org/abs/2404.14222v1)|null|
 |**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|
 |**2024-04-22**|**Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**|Yingxuan Li et.al.|[2404.13993v1](http://arxiv.org/abs/2404.13993v1)|null|
@@ -2065,12 +2088,13 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**Integrating Disambiguation and User Preferences into Large Language Models for Robot Motion Planning**|Mohammed Abugurain et.al.|[2404.14547v1](http://arxiv.org/abs/2404.14547v1)|null|
 |**2024-04-20**|**"I Wish There Were an AI": Challenges and AI Potential in Cancer Patient-Provider Communication**|Ziqi Yang et.al.|[2404.13409v1](http://arxiv.org/abs/2404.13409v1)|null|
 |**2024-04-18**|**FedEval-LLM: Federated Evaluation of Large Language Models on Downstream Tasks with Collective Wisdom**|Yuanqin He et.al.|[2404.12273v1](http://arxiv.org/abs/2404.12273v1)|null|
 |**2024-04-18**|**CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models**|Minjung Shin et.al.|[2404.11835v1](http://arxiv.org/abs/2404.11835v1)|null|
@@ -2267,12 +2291,13 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
 ## LLM - Perplexity
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Setting up the Data Printer with Improved English to Ukrainian Machine Translation**|Yurii Paniv et.al.|[2404.15196v1](http://arxiv.org/abs/2404.15196v1)|null|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033v1](http://arxiv.org/abs/2404.13033v1)|**[link](https://github.com/beyondguo/llm-tuning)**|
 |**2024-04-17**|**Pack of LLMs: Model Fusion at Test-Time via Perplexity Optimization**|Costas Mavromatis et.al.|[2404.11531v1](http://arxiv.org/abs/2404.11531v1)|null|
 |**2024-04-15**|**LoRAP: Transformer Sub-Layers Deserve Differentiated Structured Compression for Large Language Models**|Guangyan Li et.al.|[2404.09695v1](http://arxiv.org/abs/2404.09695v1)|null|
@@ -2385,5 +2410,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240423>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
 
