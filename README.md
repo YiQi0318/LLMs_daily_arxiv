@@ -1,4 +1,4 @@
-## Updated on 2024.04.24
+## Updated on 2024.04.25
 
 <details>
   <summary>Table of Contents</summary>
@@ -344,12 +344,14 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
 
 ## LLM - Interpretable
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models**|Shashi Kant Gupta et.al.|[2404.15549v1](http://arxiv.org/abs/2404.15549v1)|null|
+|**2024-04-01**|**Automated Assessment of Encouragement and Warmth in Classrooms Leveraging Multimodal Emotional Features and ChatGPT**|Ruikun Hou et.al.|[2404.15310v1](http://arxiv.org/abs/2404.15310v1)|null|
 |**2024-04-23**|**Aligning LLM Agents by Learning Latent Preference from User Edits**|Ge Gao et.al.|[2404.15269v1](http://arxiv.org/abs/2404.15269v1)|null|
 |**2024-04-22**|**Pixels and Predictions: Potential of GPT-4V in Meteorological Imagery Analysis and Forecast Communication**|John R. Lawson et.al.|[2404.15166v1](http://arxiv.org/abs/2404.15166v1)|null|
 |**2024-04-23**|**Language in Vivo vs. in Silico: Size Matters but Larger Language Models Still Do Not Comprehend Language on a Par with Humans**|Vittoria Dentella et.al.|[2404.14883v1](http://arxiv.org/abs/2404.14883v1)|null|
@@ -881,12 +883,15 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
 
 ## LLM - Reasoning
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**Can Foundational Large Language Models Assist with Conducting Pharmaceuticals Manufacturing Investigations?**|Hossein Salami et.al.|[2404.15578v1](http://arxiv.org/abs/2404.15578v1)|null|
+|**2024-04-23**|**Towards Systematic Evaluation of Logical Reasoning Ability of Large Language Models**|Mihir Parmar et.al.|[2404.15522v1](http://arxiv.org/abs/2404.15522v1)|**[link](https://github.com/mihir3009/logicbench)**|
+|**2024-04-23**|**ToM-LM: Delegating Theory Of Mind Reasoning to External Symbolic Executors in Large Language Models**|Weizhi Tang et.al.|[2404.15515v1](http://arxiv.org/abs/2404.15515v1)|null|
 |**2024-04-23**|**Re-Thinking Inverse Graphics With Large Language Models**|Peter Kulits et.al.|[2404.15228v1](http://arxiv.org/abs/2404.15228v1)|null|
 |**2024-04-23**|**Regressive Side Effects of Training Language Models to Mimic Student Misconceptions**|Shashank Sonkar et.al.|[2404.15156v1](http://arxiv.org/abs/2404.15156v1)|null|
 |**2024-04-23**|**Rethinking LLM Memorization through the Lens of Adversarial Compression**|Avi Schwarzschild et.al.|[2404.15146v1](http://arxiv.org/abs/2404.15146v1)|null|
@@ -904,7 +909,7 @@
 |**2024-04-14**|**Enhancing Fault Detection for Large Language Models via Mutation-Based Confidence Smoothing**|Qiang Hu et.al.|[2404.14419v1](http://arxiv.org/abs/2404.14419v1)|null|
 |**2024-04-22**|**An Artificial Neuron for Enhanced Problem Solving in Large Language Models**|Sumedh Rasal et.al.|[2404.14222v1](http://arxiv.org/abs/2404.14222v1)|null|
 |**2024-04-22**|**Text-Tuple-Table: Towards Information Integration in Text-to-Table Generation via Global Tuple Extraction**|Zheye Deng et.al.|[2404.14215v1](http://arxiv.org/abs/2404.14215v1)|**[link](https://github.com/hkust-knowcomp/livesum-ttt)**|
-|**2024-04-22**|**Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**|Yingxuan Li et.al.|[2404.13993v1](http://arxiv.org/abs/2404.13993v1)|null|
+|**2024-04-24**|**Zero-Shot Character Identification and Speaker Prediction in Comics via Iterative Multimodal Fusion**|Yingxuan Li et.al.|[2404.13993v2](http://arxiv.org/abs/2404.13993v2)|null|
 |**2024-04-22**|**Information Re-Organization Improves Reasoning in Large Language Models**|Xiaoxia Cheng et.al.|[2404.13985v1](http://arxiv.org/abs/2404.13985v1)|null|
 |**2024-04-22**|**MARIO Eval: Evaluate Your Math LLM with your Math LLM--A mathematical dataset evaluation toolkit**|Boning Zhang et.al.|[2404.13925v1](http://arxiv.org/abs/2404.13925v1)|**[link](https://github.com/mario-math-reasoning/math_evaluation)**|
 |**2024-04-22**|**Navigating the Path of Writing: Outline-guided Text Generation with Large Language Models**|Yukyung Lee et.al.|[2404.13919v1](http://arxiv.org/abs/2404.13919v1)|null|
@@ -916,7 +921,7 @@
 |**2024-04-17**|**TREACLE: Thrifty Reasoning via Context-Aware LLM and Prompt Selection**|Xuechen Zhang et.al.|[2404.13082v1](http://arxiv.org/abs/2404.13082v1)|null|
 |**2024-04-14**|**Evidence from counterfactual tasks supports emergent analogical reasoning in large language models**|Taylor Webb et.al.|[2404.13070v1](http://arxiv.org/abs/2404.13070v1)|null|
 |**2024-04-19**|**Sample Design Engineering: An Empirical Study of What Makes Good Downstream Fine-Tuning Samples for LLMs**|Biyang Guo et.al.|[2404.13033v1](http://arxiv.org/abs/2404.13033v1)|**[link](https://github.com/beyondguo/llm-tuning)**|
-|**2024-04-19**|**Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models**|Yian Li et.al.|[2404.12966v1](http://arxiv.org/abs/2404.12966v1)|null|
+|**2024-04-24**|**Eyes Can Deceive: Benchmarking Counterfactual Reasoning Abilities of Multi-modal Large Language Models**|Yian Li et.al.|[2404.12966v2](http://arxiv.org/abs/2404.12966v2)|null|
 |**2024-04-19**|**Large Language Models for Networking: Workflow, Advances and Challenges**|Chang Liu et.al.|[2404.12901v1](http://arxiv.org/abs/2404.12901v1)|null|
 |**2024-04-19**|**Towards Logically Consistent Language Models via Probabilistic Reasoning**|Diego Calanzone et.al.|[2404.12843v1](http://arxiv.org/abs/2404.12843v1)|null|
 |**2024-04-19**|**TextSquare: Scaling up Text-Centric Visual Instruction Tuning**|Jingqun Tang et.al.|[2404.12803v1](http://arxiv.org/abs/2404.12803v1)|null|
@@ -2088,7 +2093,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -2291,7 +2296,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -2410,5 +2415,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240424>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240425>back to top</a>)</p>
 
