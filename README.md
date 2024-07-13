@@ -1,4 +1,4 @@
-## Updated on 2024.07.12
+## Updated on 2024.07.13
 
 <details>
   <summary>Table of Contents</summary>
@@ -511,7 +511,7 @@
 |**2023-09-21**|**JobRecoGPT -- Explainable job recommendations using LLMs**|Preetam Ghosh et.al.|[2309.11805v1](http://arxiv.org/abs/2309.11805v1)|null|
 |**2023-09-20**|**Controlled Generation with Prompt Insertion for Natural Language Explanations in Grammatical Error Correction**|Masahiro Kaneko et.al.|[2309.11439v1](http://arxiv.org/abs/2309.11439v1)|**[link](https://github.com/kanekomasahiro/gec-explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## LLM - Interpretable
 
@@ -1375,7 +1375,7 @@
 |**2023-10-30**|**Generative retrieval-augmented ontologic graph and multi-agent strategies for interpretive large language model-based materials design**|Markus J. Buehler et.al.|[2310.19998v1](http://arxiv.org/abs/2310.19998v1)|null|
 |**2023-10-30**|**GPCR-BERT: Interpreting Sequential Design of G Protein Coupled Receptors Using Protein Language Models**|Seongwon Kim et.al.|[2310.19915v1](http://arxiv.org/abs/2310.19915v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## LLM - Reasoning
 
@@ -1419,7 +1419,7 @@
 |**2024-07-07**|**ElecBench: a Power Dispatch Evaluation Benchmark for Large Language Models**|Xiyuan Zhou et.al.|[2407.05365v1](http://arxiv.org/abs/2407.05365v1)|**[link](https://github.com/xiyuan-zhou/elecbench-a-power-dispatch-evaluation-benchmark-for-large-language-models)**|
 |**2024-07-07**|**VideoCoT: A Video Chain-of-Thought Dataset with Active Annotation Tool**|Yan Wang et.al.|[2407.05355v1](http://arxiv.org/abs/2407.05355v1)|null|
 |**2024-07-07**|**WorkArena++: Towards Compositional Planning and Reasoning-based Common Knowledge Work Tasks**|Léo Boisvert et.al.|[2407.05291v1](http://arxiv.org/abs/2407.05291v1)|**[link](https://github.com/servicenow/workarena)**|
-|**2024-07-07**|**Beyond Binary Gender Labels: Revealing Gender Biases in LLMs through Gender-Neutral Name Predictions**|Zhiwen You et.al.|[2407.05271v1](http://arxiv.org/abs/2407.05271v1)|**[link](https://github.com/zhiwenyou103/Beyond-Binary-Gender-Labels)**|
+|**2024-07-07**|**Beyond Binary Gender Labels: Revealing Gender Biases in LLMs through Gender-Neutral Name Predictions**|Zhiwen You et.al.|[2407.05271v1](http://arxiv.org/abs/2407.05271v1)|null|
 |**2024-07-06**|**Lucy: Think and Reason to Solve Text-to-SQL**|Nina Narodytska et.al.|[2407.05153v1](http://arxiv.org/abs/2407.05153v1)|null|
 |**2024-07-06**|**Solving for X and Beyond: Can Large Language Models Solve Complex Math Problems with More-Than-Two Unknowns?**|Kuei-Chun Kao et.al.|[2407.05134v1](http://arxiv.org/abs/2407.05134v1)|null|
 |**2024-07-06**|**Progress or Regress? Self-Improvement Reversal in Post-training**|Ting Wu et.al.|[2407.05013v1](http://arxiv.org/abs/2407.05013v1)|null|
@@ -3338,7 +3338,7 @@
 |**2023-11-15**|**Improving Zero-shot Visual Question Answering via Large Language Models with Reasoning Question Prompts**|Yunshi Lan et.al.|[2311.09050v1](http://arxiv.org/abs/2311.09050v1)|**[link](https://github.com/ecnu-dase-nlp/rqp)**|
 |**2023-11-15**|**MELA: Multilingual Evaluation of Linguistic Acceptability**|Ziyin Zhang et.al.|[2311.09033v1](http://arxiv.org/abs/2311.09033v1)|null|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## LLM - Uncertainty
 
@@ -3629,7 +3629,7 @@
 |**2023-05-08**|**Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach**|Yue Yu et.al.|[2209.06995v2](http://arxiv.org/abs/2209.06995v2)|**[link](https://github.com/yueyu1030/patron)**|
 |**2022-09-13**|**Selection Collider Bias in Large Language Models**|Emily McMilin et.al.|[2208.10063v2](http://arxiv.org/abs/2208.10063v2)|**[link](https://github.com/2dot71mily/selection_collider_bias_uai_clr_2022)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
 ## LLM - Perplexity
 
@@ -3637,7 +3637,7 @@
 |---|---|---|---|---|
 |**2024-07-11**|**Privacy-Preserving Data Deduplication for Enhancing Federated Learning of Language Models**|Aydin Abadi et.al.|[2407.08152v1](http://arxiv.org/abs/2407.08152v1)|null|
 |**2024-07-09**|**FBI-LLM: Scaling Up Fully Binarized LLMs from Scratch via Autoregressive Distillation**|Liqun Ma et.al.|[2407.07093v1](http://arxiv.org/abs/2407.07093v1)|**[link](https://github.com/liqunma/fbi-llm)**|
-|**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917v1](http://arxiv.org/abs/2407.06917v1)|null|
+|**2024-07-09**|**Who is better at math, Jenny or Jingzhen? Uncovering Stereotypes in Large Language Models**|Zara Siddique et.al.|[2407.06917v1](http://arxiv.org/abs/2407.06917v1)|**[link](https://github.com/groovychoons/GlobalBias)**|
 |**2024-07-09**|**SoftDedup: an Efficient Data Reweighting Method for Speeding Up Language Model Pre-training**|Nan He et.al.|[2407.06654v1](http://arxiv.org/abs/2407.06654v1)|null|
 |**2024-07-08**|**If You Don't Understand It, Don't Use It: Eliminating Trojans with Filters Between Layers**|Adriano Hernandez et.al.|[2407.06411v1](http://arxiv.org/abs/2407.06411v1)|null|
 |**2024-07-08**|**Empirical Study of Symmetrical Reasoning in Conversational Chatbots**|Daniela N. Rim et.al.|[2407.05734v1](http://arxiv.org/abs/2407.05734v1)|null|
@@ -3809,5 +3809,5 @@
 |**2020-11-17**|**Compressing Language Models using Doped Kronecker Products**|Urmish Thakker et.al.|[2001.08896v5](http://arxiv.org/abs/2001.08896v5)|null|
 |**2020-03-13**|**Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism**|Mohammad Shoeybi et.al.|[1909.08053v4](http://arxiv.org/abs/1909.08053v4)|**[link](https://github.com/NVIDIA/Megatron-LM)**|
 
-<p align=right>(<a href=#Updated-on-20240712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240713>back to top</a>)</p>
 
